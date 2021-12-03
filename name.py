@@ -1,2 +1,4 @@
 def print_name(name):
-    print("Hallo, mein Name ist " + name)
+    # TODO: Gib den übergebenen Namen in diesem Format aus:
+    # Hallo, mein Name ist NAME
+    return
