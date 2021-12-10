@@ -1,5 +1,5 @@
 # Aufgabe 1: Intro
-In dieser Aufgabe wirst du dein erstes JavaScript-Programm programmieren und ausführen.
+In dieser Aufgabe wirst du dein erstes Python-Programm programmieren und ausführen.
 
 ## Schritt 1: Der Dateien-Jungle
 Du bist bestimmt durch die ganzen Dateien erst einmal verwirrt und überfordert. Aber es ist alles einfacher als du denkst.
