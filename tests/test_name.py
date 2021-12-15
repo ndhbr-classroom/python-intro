@@ -8,4 +8,8 @@ def test_print_name(capfd):
     print_name(name)
     out, err = capfd.readouterr()
 
-    assert out == f'Hallo, mein Name ist {name}\n'
+    err = """Deine Funktion wurde auf einen zufälligen Namen getestet.
+    Überprüfe deine Ausgabe, ob wirklich jedes Zeichen stimmt (mit Groß-
+    und Kleinschreibung)"""
+
+    assert out == f'Hallo, mein Name ist {name}\n', err
