@@ -55,7 +55,7 @@ und probier es doch mit deinem Namen aus! :)
 <details>
   <summary>Nur aufklappen, wenn du wirklich Hilfe brauchst! Probiere es zuerst ohne Lösung.</summary>
   
-  ### loop.py
+  ### name.py
   ```python
         print(f'Hallo, mein Name ist {name}')
   ```
