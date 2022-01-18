@@ -50,3 +50,15 @@ Wenn alles geklappt hat, ist die Aufgabe nun bereit zum abgeben. Teste sie doch 
 python main.py
 ```
 und probier es doch mit deinem Namen aus! :)
+
+## Lösung
+<details>
+  <summary>Nur aufklappen, wenn du wirklich Hilfe brauchst! Probiere es zuerst ohne Lösung.</summary>
+  
+  ### loop.py
+  ```python
+        print(f'Hallo, mein Name ist {name}')
+  ```
+
+  >Tipp: Achte immer darauf, dass die Zeilen richtig eingerückt sind!
+</details>
